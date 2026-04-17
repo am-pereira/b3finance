@@ -126,7 +126,7 @@ docker inspect --format='{{.State.Health.Status}}' finance
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/b3finance.git
+git clone https://github.com/am-pereira/b3finance.git
 cd b3finance
 
 # 2. Instale as dependências
@@ -263,11 +263,11 @@ A aplicação não exige configuração de variáveis de ambiente para funcionar
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Para reportar bugs ou sugerir melhorias, abra uma [issue](https://github.com/seu-usuario/b3finance/issues). Para contribuir com código:
+Contribuições são bem-vindas! Para reportar bugs ou sugerir melhorias, abra uma [issue](https://github.com/am-pereira/b3finance/issues). Para contribuir com código:
 
 ```bash
 # 1. Faça um fork e clone o repositório
-git clone https://github.com/seu-usuario/b3finance.git
+git clone https://github.com/am-pereira/b3finance.git
 cd b3finance
 
 # 2. Instale as dependências de desenvolvimento
